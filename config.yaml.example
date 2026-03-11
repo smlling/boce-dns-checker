@@ -1,0 +1,9 @@
+boce:
+  key: "your_api_key"
+  # area: "oversea"
+  # base_url: "https://api.boce.com/v3"
+  # timeout_seconds: 15
+
+# db_path: "dns_checker.db"
+# poll_interval_seconds: 10
+# max_wait_seconds: 120
